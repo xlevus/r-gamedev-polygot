@@ -1,0 +1,253 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-03-16 23:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. GAME_YOU_WIN
+msgid "You win!"
+msgstr "¡Usted gana!"
+
+#. GAME_YOU_LOSE
+msgid "You lose!"
+msgstr "¡Usted pierde!"
+
+#. GAME_YOU_WON
+msgid "You won!"
+msgstr "¡Usted ganó!"
+
+#. GAME_YOU_LOST
+msgid "You lost!"
+msgstr "¡Usted perdió!"
+
+#. GAME_GAME_OVER
+msgid "Game over!"
+msgstr "Juego terminado"
+
+#. GAME_GAME_OVER_CAPS
+msgid "GAME OVER!"
+msgstr "JUEGO TERMINADO"
+
+#. GAME_VICTORY
+msgid "Victory"
+msgstr "Victoria"
+
+#. GAME_DEFEAT
+msgid "Defeat"
+msgstr "Derrota"
+
+#. GAME_DEFEATED
+msgid "You have been defeated."
+msgstr "Fuiste derrotado"
+
+#. GAME_OBJECTIVE
+msgid "Objective"
+msgstr "Objetivo"
+
+#. GAME_OBJECTIVE_PLURAL
+msgid "Objectives"
+msgstr "Objetivos"
+
+#. GAME_MISSION_OBJECTIVE
+msgid "Mission Objective"
+msgstr "Objetivo de la misión"
+
+#. GAME_MISSION_OBJECTIVE_PLURAL
+msgid "Mission Objectives"
+msgstr "Objetivos de la misión"
+
+#. GAME_YOU_ARE_DEAD
+msgid "You are dead."
+msgstr "Estás muerto"
+
+#. GAME_YOU_DIED
+msgid "You died."
+msgstr "Has muerto"
+
+#. GAME_DEATH
+msgid "Death"
+msgstr "Muerte"
+
+#. GAME_DEATH_PLURAL
+msgid "Deaths"
+msgstr "Muertes"
+
+#. GAME_KILL
+msgid "Kill"
+msgstr "Matado"
+
+#. GAME_KILLS
+msgid "Kills"
+msgstr "Matados"
+
+#. GAME_ASSIST
+msgid "Assist"
+msgstr "Asistencia"
+
+#. GAME_ASSISTS
+msgid "Assists"
+msgstr "Asistencias"
+
+#. GAME_RESPAWN
+msgid "Respawn"
+msgstr "Revivir"
+
+#. GAME_RESPAWNING
+msgid "Respawning"
+msgstr "Reviviendo"
+
+#. GAME_RESPAWN_IN
+msgid "Respawn in:"
+msgstr "Reviviendo en:"
+
+#. GAME_RESPAWN_QUESTION
+msgid "Respawn?"
+msgstr "¿Revivir?"
+
+#. GAME_LOCKED
+msgid "Locked"
+msgstr "Bloqueado"
+
+#. GAME_INVENTORY
+msgid "Inventory"
+msgstr "Inventario"
+
+#. GAME_INVENTORY_CAPACITY
+msgid "Inventory Capacity"
+msgstr "Capacidad del inventario"
+
+#. GAME_INVENTORY_FULL
+msgid "Inventory Full"
+msgstr "Inventario lleno"
+
+#. GAME_YOU_CANNOT_CARRY
+msgid "You cannot carry any more."
+msgstr "No puedes llevar nada más"
+
+#. GAME_ROUND
+msgid "Round"
+msgstr "Ronda"
+
+#. GAME_MATCH
+msgid "Match"
+msgstr "Encuentro"
+
+#. GAME_WINS
+msgid "Wins"
+msgstr "Ganadas"
+
+#. GAME_LOSSES
+msgid "Losses"
+msgstr "Perdidas"
+
+#. GAME_KEY
+msgid "Key"
+msgstr "Tecla"
+
+#. GAME_LIVES
+msgid "Lives"
+msgstr "Vidas"
+
+#. GAME_HEALTH
+msgid "Health"
+msgstr "Vida"
+
+#. GAME_AMMUNITION
+msgid "Ammunition"
+msgstr "Municiones"
+
+#. GAME_AMMO
+msgid "Ammo"
+msgstr ""
+
+#. GAME_BULLET
+msgid "Bullet"
+msgstr "Bala"
+
+#. GAME_BULLETS
+msgid "Bullets"
+msgstr "Balas"
+
+#. GAME_ARMOR
+msgid "Armor"
+msgstr "Armadura"
+
+# sci-fi energy shield, not medieval knight thing
+#. GAME_SHIELD
+msgid "Shield"
+msgstr "Escudo"
+
+# sci-fi energy shield, not medieval knight thing
+#. GAME_SHIELDS
+msgid "Shields"
+msgstr "Escudos"
+
+#. GAME_ENEMY
+#. GAME_ENEMY_FEMALE
+msgid "Enemy"
+msgstr "Enemigo"
+
+#. GAME_ENEMY_PLURAL
+#. GAME_ENEMY_FEMALE_PLURAL
+msgid "Enemies"
+msgstr "Enemigos"
+
+#. GAME_MALE
+msgid "Male"
+msgstr "Masculino"
+
+#. GAME_FEMALE
+msgid "Female"
+msgstr "Femenino"
+
+#. GAME_TRANSGENDER
+msgid "Transgender"
+msgstr "Transexual"
+
+#. GAME_MAN
+msgid "Man"
+msgstr "Hombre"
+
+#. GAME_MAN_PLURAL
+msgid "Men"
+msgstr "Hombres"
+
+#. GAME_WOMAN
+msgid "Woman"
+msgstr "Mujer"
+
+#. GAME_WOMAN_PLURAL
+msgid "Women"
+msgstr "Mujeres"
+
+#. GAME_DRAGON
+msgid "Dragon"
+msgstr "Dragón"
+
+#. GAME_ZOMBIE
+msgid "Zombie"
+msgstr "Zombi"
+
+#. GAME_ZOMBIE_PLURAL
+msgid "Zombies"
+msgstr "Zombis"
+
+# For countdown timers or elapsed time
+#. GAME_TIME
+msgid "Time"
+msgstr "Tiempo"
+

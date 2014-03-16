@@ -1,0 +1,10 @@
+STRING ID,DESCRIPTION,en_US,en_GB,fr,fr_CA,es,de,it,pt_PT,ru
+ERROR_CONNECTION_LOST,,Connection lost.,Connection lost.,,,Conexión perdida,,,,
+ERROR_GENERIC,,An error has occured.,An error has occured.,,,Ha ocurrido un error,,,,
+ERROR_OPPONENT_DISC,,Your opponent has disconnected.,Your opponent has disconnected.,,,Tu oponente se ha desconectado,,,,
+ERROR_TEAMMATE_DISC,,Your teammate has disconnected.,Your teammate has disconnected.,,,Tu compañero se ha desconectado,,,,
+ERROR_PLAYER_DISC,,The other player has disconnected.,The other player has disconnected.,,,El otro jugador se ha desconectado,,,,
+ERROR_SERVER,,Cannot connect to server.,Cannot connect to server.,,,No se pudo conectar con el servidor,,,,
+ERROR_CODE,,Error code:,Error code:,,,Código de erorr:,,,,
+ERROR_SAVE_CORRUPTED,,Save file corrupted.,Save file corrupted.,,,Achivo de guardado corrupto,,,,
+ERROR_NO_GAMES_FOUND,,No games found.,No games found.,,,No se encontraron juegos,,,,

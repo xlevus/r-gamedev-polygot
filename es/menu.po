@@ -1,0 +1,243 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-03-16 23:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. MENU_YES
+msgid "Yes"
+msgstr "Si"
+
+#. MENU_NO
+msgid "No"
+msgstr "No"
+
+#. MENU_YES_CAPS
+msgid "YES"
+msgstr "SI"
+
+#. MENU_NO_CAPS
+msgid "NO"
+msgstr "NO"
+
+# A more casual 'yes'
+#. MENU_YEAH
+msgid "Yeah"
+msgstr "Seh"
+
+# A more casual 'no'
+#. MENU_NOPE
+msgid "Nope"
+msgstr "Nah"
+
+#. MENU_PRESS_START
+msgid "Press Start"
+msgstr "Presiona Comenzar"
+
+#. MENU_PRESS_START_CONTINUE
+msgid "Press Start to continue"
+msgstr "Presiona Comenzar para continuar"
+
+#. MENU_PRESS_ANY
+msgid "Press any key"
+msgstr "Presiona cualquier tecla"
+
+#. MENU_PRESS_ANY_CONTINUE
+msgid "Press any key to continue"
+msgstr "Presiona cualquier tecla para continuar"
+
+#. MENU_NEW_GAME
+msgid "New Game"
+msgstr "Juego nuevo"
+
+#. MENU_CONTINUE
+msgid "Continue"
+msgstr "Continuar"
+
+#. MENU_CONTINUE_QUESTION
+msgid "Continue?"
+msgstr "¿Continuar?"
+
+#. MENU_LOAD
+msgid "Load"
+msgstr "Cargar"
+
+#. MENU_LOAD_GAME
+msgid "Load Game"
+msgstr "Cargar Juego"
+
+#. MENU_SAVE
+msgid "Save"
+msgstr "Guardar"
+
+#. MENU_SAVE_GAME
+msgid "Save Game"
+msgstr "Guardar Juego"
+
+#. MENU_SAVING
+msgid "Saving..."
+msgstr "Guardando..."
+
+#. MENU_EXIT
+msgid "Exit"
+msgstr "Salir"
+
+#. MENU_EXIT_QUESTION
+msgid "Exit?"
+msgstr "¿Salir?"
+
+#. MENU_DESKTOP
+msgid "Exit to Desktop"
+msgstr "Salir al escritorio"
+
+#. MENU_DESKTOP_QUESTION
+msgid "Exit to Desktop?"
+msgstr "¿Salir al escritorio?"
+
+#. MENU_QUIT
+msgid "Quit"
+msgstr "Cerrar"
+
+#. MENU_QUIT_QUESTION
+msgid "Quit?"
+msgstr "¿Cerrar?"
+
+#. MENU_QUIT_CONFIRM
+msgid "Are you sure you want to quit?"
+msgstr "¿Está seguro de querer cerrar?"
+
+#. MENU_RETURN
+msgid "Return"
+msgstr "Volver"
+
+#. MENU_MAIN_MENU
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#. MENU_RETURN_MAIN
+msgid "Return to Main Menu"
+msgstr "Volver al menu principal"
+
+#. MENU_RETURN_MAIN_QUESTION
+msgid "Return to Main Menu?"
+msgstr "¿Volver al menu principal?"
+
+#. MENU_OPTIONS
+msgid "Options"
+msgstr "Opciones"
+
+#. MENU_OPTIONS_SOUND
+msgid "Sound Options"
+msgstr "Opciones de sonido"
+
+#. MENU_OPTIONS_VIDEO
+msgid "Video Options"
+msgstr "Opciones de video"
+
+#. MENU_OPTIONS_GAMEPLAY
+msgid "Gameplay Options"
+msgstr "Opciones de juego"
+
+#. MENU_OPTIONS_NETWORK
+msgid "Network Options"
+msgstr "Opciones de conexión"
+
+#. MENU_OPTIONS_DIFFICULTY
+msgid "Difficulty Options"
+msgstr "Opciones de dificultad"
+
+#. MENU_DIFFICULTY
+msgid "Difficulty"
+msgstr "Dificultad"
+
+#. MENU_VERY_EASY
+msgid "Very Easy"
+msgstr "Muy fácil"
+
+#. MENU_EASY
+msgid "Easy"
+msgstr "Facil"
+
+#. MENU_MEDIUM
+msgid "Medium"
+msgstr "Intermedio"
+
+#. MENU_HARD
+msgid "Hard"
+msgstr "Dificil"
+
+#. MENU_VERY_HARD
+msgid "Very Hard"
+msgstr "Muy dificil"
+
+#. MENU_INSANE
+msgid "Insane"
+msgstr "Enfermizo"
+
+#. MENU_IMPOSSIBLE
+msgid "Impossible"
+msgstr "Imposible"
+
+#. MENU_THANK_YOU
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+#. MENU_GOODBYE
+msgid "Goodbye!"
+msgstr "¡Adios!"
+
+# A generic confirmation
+#. MENU_ARE_YOU_SURE
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+#. MENU_SINGLE_PLAYER
+msgid "Single player"
+msgstr "Solo"
+
+#. MENU_MULTIPLAYER
+msgid "Multiplayer"
+msgstr "Multijugador"
+
+#. MENU_ONLINE_MULTIPLAYER
+msgid "Online Multiplayer"
+msgstr "Multijugador Online"
+
+#. MENU_LOCAL_MULTIPLAYER
+msgid "Local Multiplayer"
+msgstr "Multijugador Local"
+
+#. MENU_SPLITSCREEN
+msgid "Splitscreen"
+msgstr "Pantalla compartida"
+
+#. MENU_COOP
+msgid "Co-op"
+msgstr "Co-op"
+
+#. MENU_COOPERATIVE
+msgid "Cooperative"
+msgstr "Cooperativo"
+
+#. MENU_VERSUS
+msgid "Versus"
+msgstr "Enfrentado"
+
+#. MENU_DEATHMATCH
+msgid "Deathmatch"
+msgstr "Encuentro a muerte"
+

@@ -1,0 +1,252 @@
+# Translations template for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-03-16 23:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. GAME_YOU_WIN
+msgid "You win!"
+msgstr ""
+
+#. GAME_YOU_LOSE
+msgid "You lose!"
+msgstr ""
+
+#. GAME_YOU_WON
+msgid "You won!"
+msgstr ""
+
+#. GAME_YOU_LOST
+msgid "You lost!"
+msgstr ""
+
+#. GAME_GAME_OVER
+msgid "Game over!"
+msgstr ""
+
+#. GAME_GAME_OVER_CAPS
+msgid "GAME OVER!"
+msgstr ""
+
+#. GAME_VICTORY
+msgid "Victory"
+msgstr ""
+
+#. GAME_DEFEAT
+msgid "Defeat"
+msgstr ""
+
+#. GAME_DEFEATED
+msgid "You have been defeated."
+msgstr ""
+
+#. GAME_OBJECTIVE
+msgid "Objective"
+msgstr ""
+
+#. GAME_OBJECTIVE_PLURAL
+msgid "Objectives"
+msgstr ""
+
+#. GAME_MISSION_OBJECTIVE
+msgid "Mission Objective"
+msgstr ""
+
+#. GAME_MISSION_OBJECTIVE_PLURAL
+msgid "Mission Objectives"
+msgstr ""
+
+#. GAME_YOU_ARE_DEAD
+msgid "You are dead."
+msgstr ""
+
+#. GAME_YOU_DIED
+msgid "You died."
+msgstr ""
+
+#. GAME_DEATH
+msgid "Death"
+msgstr ""
+
+#. GAME_DEATH_PLURAL
+msgid "Deaths"
+msgstr ""
+
+#. GAME_KILL
+msgid "Kill"
+msgstr ""
+
+#. GAME_KILLS
+msgid "Kills"
+msgstr ""
+
+#. GAME_ASSIST
+msgid "Assist"
+msgstr ""
+
+#. GAME_ASSISTS
+msgid "Assists"
+msgstr ""
+
+#. GAME_RESPAWN
+msgid "Respawn"
+msgstr ""
+
+#. GAME_RESPAWNING
+msgid "Respawning"
+msgstr ""
+
+#. GAME_RESPAWN_IN
+msgid "Respawn in:"
+msgstr ""
+
+#. GAME_RESPAWN_QUESTION
+msgid "Respawn?"
+msgstr ""
+
+#. GAME_LOCKED
+msgid "Locked"
+msgstr ""
+
+#. GAME_INVENTORY
+msgid "Inventory"
+msgstr ""
+
+#. GAME_INVENTORY_CAPACITY
+msgid "Inventory Capacity"
+msgstr ""
+
+#. GAME_INVENTORY_FULL
+msgid "Inventory Full"
+msgstr ""
+
+#. GAME_YOU_CANNOT_CARRY
+msgid "You cannot carry any more."
+msgstr ""
+
+#. GAME_ROUND
+msgid "Round"
+msgstr ""
+
+#. GAME_MATCH
+msgid "Match"
+msgstr ""
+
+#. GAME_WINS
+msgid "Wins"
+msgstr ""
+
+#. GAME_LOSSES
+msgid "Losses"
+msgstr ""
+
+#. GAME_KEY
+msgid "Key"
+msgstr ""
+
+#. GAME_LIVES
+msgid "Lives"
+msgstr ""
+
+#. GAME_HEALTH
+msgid "Health"
+msgstr ""
+
+#. GAME_AMMUNITION
+msgid "Ammunition"
+msgstr ""
+
+#. GAME_AMMO
+msgid "Ammo"
+msgstr ""
+
+#. GAME_BULLET
+msgid "Bullet"
+msgstr ""
+
+#. GAME_BULLETS
+msgid "Bullets"
+msgstr ""
+
+#. GAME_ARMOR
+msgid "Armor"
+msgstr ""
+
+# sci-fi energy shield, not medieval knight thing
+#. GAME_SHIELD
+msgid "Shield"
+msgstr ""
+
+# sci-fi energy shield, not medieval knight thing
+#. GAME_SHIELDS
+msgid "Shields"
+msgstr ""
+
+#. GAME_ENEMY
+#. GAME_ENEMY_FEMALE
+msgid "Enemy"
+msgstr ""
+
+#. GAME_ENEMY_PLURAL
+#. GAME_ENEMY_FEMALE_PLURAL
+msgid "Enemies"
+msgstr ""
+
+#. GAME_MALE
+msgid "Male"
+msgstr ""
+
+#. GAME_FEMALE
+msgid "Female"
+msgstr ""
+
+#. GAME_TRANSGENDER
+msgid "Transgender"
+msgstr ""
+
+#. GAME_MAN
+msgid "Man"
+msgstr ""
+
+#. GAME_MAN_PLURAL
+msgid "Men"
+msgstr ""
+
+#. GAME_WOMAN
+msgid "Woman"
+msgstr ""
+
+#. GAME_WOMAN_PLURAL
+msgid "Women"
+msgstr ""
+
+#. GAME_DRAGON
+msgid "Dragon"
+msgstr ""
+
+#. GAME_ZOMBIE
+msgid "Zombie"
+msgstr ""
+
+#. GAME_ZOMBIE_PLURAL
+msgid "Zombies"
+msgstr ""
+
+# For countdown timers or elapsed time
+#. GAME_TIME
+msgid "Time"
+msgstr ""
+

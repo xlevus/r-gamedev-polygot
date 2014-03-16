@@ -1,0 +1,244 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-03-16 23:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. MENU_YES
+msgid "Yes"
+msgstr "Да"
+
+#. MENU_NO
+msgid "No"
+msgstr "Нет"
+
+#. MENU_YES_CAPS
+msgid "YES"
+msgstr ""
+
+#. MENU_NO_CAPS
+msgid "NO"
+msgstr ""
+
+# A more casual 'yes'
+#. MENU_YEAH
+msgid "Yeah"
+msgstr ""
+
+# A more casual 'no'
+#. MENU_NOPE
+msgid "Nope"
+msgstr ""
+
+#. MENU_PRESS_START
+msgid "Press Start"
+msgstr "Нажмите Старт"
+
+#. MENU_PRESS_START_CONTINUE
+msgid "Press Start to continue"
+msgstr ""
+
+#. MENU_PRESS_ANY
+msgid "Press any key"
+msgstr ""
+
+#. MENU_PRESS_ANY_CONTINUE
+msgid "Press any key to continue"
+msgstr ""
+
+#. MENU_NEW_GAME
+msgid "New Game"
+msgstr ""
+
+#. MENU_CONTINUE
+msgid "Continue"
+msgstr "Продолжить игру"
+
+#. MENU_CONTINUE_QUESTION
+msgid "Continue?"
+msgstr ""
+
+#. MENU_LOAD
+msgid "Load"
+msgstr ""
+
+#. MENU_LOAD_GAME
+msgid "Load Game"
+msgstr ""
+
+#. MENU_SAVE
+msgid "Save"
+msgstr ""
+
+#. MENU_SAVE_GAME
+msgid "Save Game"
+msgstr ""
+
+#. MENU_SAVING
+msgid "Saving..."
+msgstr ""
+
+#. MENU_EXIT
+msgid "Exit"
+msgstr "Выход"
+
+#. MENU_EXIT_QUESTION
+msgid "Exit?"
+msgstr ""
+
+#. MENU_DESKTOP
+msgid "Exit to Desktop"
+msgstr ""
+
+#. MENU_DESKTOP_QUESTION
+msgid "Exit to Desktop?"
+msgstr ""
+
+#. MENU_QUIT
+msgid "Quit"
+msgstr "Выйти из игру"
+
+#. MENU_QUIT_QUESTION
+msgid "Quit?"
+msgstr ""
+
+#. MENU_QUIT_CONFIRM
+msgid "Are you sure you want to quit?"
+msgstr ""
+
+#. MENU_RETURN
+msgid "Return"
+msgstr ""
+
+#. MENU_MAIN_MENU
+msgid "Main Menu"
+msgstr ""
+
+#. MENU_RETURN_MAIN
+msgid "Return to Main Menu"
+msgstr ""
+
+#. MENU_RETURN_MAIN_QUESTION
+msgid "Return to Main Menu?"
+msgstr ""
+
+#. MENU_OPTIONS
+msgid "Options"
+msgstr ""
+
+#. MENU_OPTIONS_SOUND
+msgid "Sound Options"
+msgstr ""
+
+#. MENU_OPTIONS_VIDEO
+msgid "Video Options"
+msgstr ""
+
+#. MENU_OPTIONS_GAMEPLAY
+msgid "Gameplay Options"
+msgstr ""
+
+#. MENU_OPTIONS_NETWORK
+msgid "Network Options"
+msgstr ""
+
+#. MENU_OPTIONS_DIFFICULTY
+msgid "Difficulty Options"
+msgstr ""
+
+#. MENU_DIFFICULTY
+msgid "Difficulty"
+msgstr ""
+
+#. MENU_VERY_EASY
+msgid "Very Easy"
+msgstr ""
+
+#. MENU_EASY
+msgid "Easy"
+msgstr ""
+
+#. MENU_MEDIUM
+msgid "Medium"
+msgstr ""
+
+#. MENU_HARD
+msgid "Hard"
+msgstr ""
+
+#. MENU_VERY_HARD
+msgid "Very Hard"
+msgstr ""
+
+#. MENU_INSANE
+msgid "Insane"
+msgstr ""
+
+#. MENU_IMPOSSIBLE
+msgid "Impossible"
+msgstr ""
+
+#. MENU_THANK_YOU
+msgid "Thank you!"
+msgstr ""
+
+#. MENU_GOODBYE
+msgid "Goodbye!"
+msgstr ""
+
+# A generic confirmation
+#. MENU_ARE_YOU_SURE
+msgid "Are you sure?"
+msgstr ""
+
+#. MENU_SINGLE_PLAYER
+msgid "Single player"
+msgstr "Одиночная игра"
+
+#. MENU_MULTIPLAYER
+msgid "Multiplayer"
+msgstr ""
+
+#. MENU_ONLINE_MULTIPLAYER
+msgid "Online Multiplayer"
+msgstr ""
+
+#. MENU_LOCAL_MULTIPLAYER
+msgid "Local Multiplayer"
+msgstr ""
+
+#. MENU_SPLITSCREEN
+msgid "Splitscreen"
+msgstr ""
+
+#. MENU_COOP
+msgid "Co-op"
+msgstr "Co-op"
+
+#. MENU_COOPERATIVE
+msgid "Cooperative"
+msgstr ""
+
+#. MENU_VERSUS
+msgid "Versus"
+msgstr ""
+
+#. MENU_DEATHMATCH
+msgid "Deathmatch"
+msgstr ""
+
