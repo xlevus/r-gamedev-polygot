@@ -1,0 +1,253 @@
+# Turkish translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-03-17 05:31-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: tr <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. GAME_YOU_WIN
+msgid "You win!"
+msgstr "Kazandın!"
+
+#. GAME_YOU_LOSE
+msgid "You lose!"
+msgstr "Kaybettin!"
+
+#. GAME_YOU_WON
+msgid "You won!"
+msgstr "Kazandın!"
+
+#. GAME_YOU_LOST
+msgid "You lost!"
+msgstr "Kaybettin!"
+
+#. GAME_GAME_OVER
+msgid "Game over!"
+msgstr "Oyun bitti!"
+
+#. GAME_GAME_OVER_CAPS
+msgid "GAME OVER!"
+msgstr "OYUN BİTTİ!"
+
+#. GAME_VICTORY
+msgid "Victory"
+msgstr "Zafer"
+
+#. GAME_DEFEAT
+msgid "Defeat"
+msgstr "Yenilgi"
+
+#. GAME_DEFEATED
+msgid "You have been defeated."
+msgstr "Yenildin."
+
+#. GAME_OBJECTIVE
+msgid "Objective"
+msgstr "Görev"
+
+#. GAME_OBJECTIVE_PLURAL
+msgid "Objectives"
+msgstr "Görevler"
+
+#. GAME_MISSION_OBJECTIVE
+msgid "Mission Objective"
+msgstr "Görev Tanımı"
+
+#. GAME_MISSION_OBJECTIVE_PLURAL
+msgid "Mission Objectives"
+msgstr "Görev Tanımları"
+
+#. GAME_YOU_ARE_DEAD
+msgid "You are dead."
+msgstr "Öldün."
+
+#. GAME_YOU_DIED
+msgid "You died."
+msgstr "Öldün."
+
+#. GAME_DEATH
+msgid "Death"
+msgstr "Ölüm"
+
+#. GAME_DEATH_PLURAL
+msgid "Deaths"
+msgstr "Ölümler"
+
+#. GAME_KILL
+msgid "Kill"
+msgstr "Can alma"
+
+#. GAME_KILLS
+msgid "Kills"
+msgstr "Öldürme sayısı"
+
+#. GAME_ASSIST
+msgid "Assist"
+msgstr "Asist"
+
+#. GAME_ASSISTS
+msgid "Assists"
+msgstr "Asistler"
+
+#. GAME_RESPAWN
+msgid "Respawn"
+msgstr "Tekrar canlan"
+
+#. GAME_RESPAWNING
+msgid "Respawning"
+msgstr "Tekrar canlanıyor"
+
+#. GAME_RESPAWN_IN
+msgid "Respawn in:"
+msgstr "Tekrar canlanmaya:"
+
+#. GAME_RESPAWN_QUESTION
+msgid "Respawn?"
+msgstr "Tekrar canlan?"
+
+#. GAME_LOCKED
+msgid "Locked"
+msgstr "Kilitli"
+
+#. GAME_INVENTORY
+msgid "Inventory"
+msgstr "Envanter"
+
+#. GAME_INVENTORY_CAPACITY
+msgid "Inventory Capacity"
+msgstr "Envanter Kapasitesi"
+
+#. GAME_INVENTORY_FULL
+msgid "Inventory Full"
+msgstr "Envanter Dolu"
+
+#. GAME_YOU_CANNOT_CARRY
+msgid "You cannot carry any more."
+msgstr "Daha fazla taşıyamazsın."
+
+#. GAME_ROUND
+msgid "Round"
+msgstr "El"
+
+#. GAME_MATCH
+msgid "Match"
+msgstr "Maç"
+
+#. GAME_WINS
+msgid "Wins"
+msgstr "Yenilgi sayısı"
+
+#. GAME_LOSSES
+msgid "Losses"
+msgstr "Zafer sayısı"
+
+#. GAME_KEY
+msgid "Key"
+msgstr "Anahtar"
+
+#. GAME_LIVES
+msgid "Lives"
+msgstr "Canlar"
+
+#. GAME_HEALTH
+msgid "Health"
+msgstr "Can"
+
+#. GAME_AMMUNITION
+msgid "Ammunition"
+msgstr "Cephane"
+
+#. GAME_AMMO
+msgid "Ammo"
+msgstr "Cephane"
+
+#. GAME_BULLET
+msgid "Bullet"
+msgstr "Kurşun"
+
+#. GAME_BULLETS
+msgid "Bullets"
+msgstr "Kurşunlar"
+
+#. GAME_ARMOR
+msgid "Armor"
+msgstr "Zırh"
+
+# sci-fi energy shield, not medieval knight thing
+#. GAME_SHIELD
+msgid "Shield"
+msgstr "Kalkan"
+
+# sci-fi energy shield, not medieval knight thing
+#. GAME_SHIELDS
+msgid "Shields"
+msgstr "Kalkanlar"
+
+#. GAME_ENEMY
+#. GAME_ENEMY_FEMALE
+msgid "Enemy"
+msgstr "Düşman"
+
+#. GAME_ENEMY_PLURAL
+#. GAME_ENEMY_FEMALE_PLURAL
+msgid "Enemies"
+msgstr "Düşmanlar"
+
+#. GAME_MALE
+msgid "Male"
+msgstr "Erkek"
+
+#. GAME_FEMALE
+msgid "Female"
+msgstr "Kadın"
+
+#. GAME_TRANSGENDER
+msgid "Transgender"
+msgstr "Transseksüel"
+
+#. GAME_MAN
+msgid "Man"
+msgstr "Adam"
+
+#. GAME_MAN_PLURAL
+msgid "Men"
+msgstr "Adamlar"
+
+#. GAME_WOMAN
+msgid "Woman"
+msgstr "Kadın"
+
+#. GAME_WOMAN_PLURAL
+msgid "Women"
+msgstr "Kadınlar"
+
+#. GAME_DRAGON
+msgid "Dragon"
+msgstr "Ejderha"
+
+#. GAME_ZOMBIE
+msgid "Zombie"
+msgstr "Zombi"
+
+#. GAME_ZOMBIE_PLURAL
+msgid "Zombies"
+msgstr "Zombiler"
+
+# For countdown timers or elapsed time
+#. GAME_TIME
+msgid "Time"
+msgstr "Zaman"
+
